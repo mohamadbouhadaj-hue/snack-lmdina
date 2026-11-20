@@ -1,0 +1,6 @@
+{
+  "name": "snacklmdina",
+  "description": "Menu digital et commande rapide WhatsApp pour snacklmdina — Tacos, Smash Burgers, Paninis, Box & Boissons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
